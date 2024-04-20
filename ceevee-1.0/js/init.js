@@ -37,7 +37,7 @@
 /* Highlight the current section in the navigation bar
 ------------------------------------------------------*/
 
-	var sections = $("section");
+	var sections = $("section")
 	var navigation_links = $("#nav-wrap a");
 
 	sections.waypoint({
@@ -52,7 +52,7 @@
 			var active_link = $('#nav-wrap a[href="#' + active_section.attr("id") + '"]');
 
          navigation_links.parent().removeClass("current");
-			active_link.parent().addClass("current");
+			active_linkparent().addClass("current");
 
 		},
 		offset: '35%'

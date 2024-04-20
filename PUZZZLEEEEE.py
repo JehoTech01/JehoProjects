@@ -15,13 +15,13 @@ BLACK =         (  0,   0,   0)
 WHITE =         (255, 255, 255)
 BRIGHTBLUE =    (  0,  50, 255)
 DARKTURQUOISE = (  3,  54,  73)
-BLUE =         (  0,  50, 255)
+RED =         (  0,  50, 255)
 GREEN =        (  0, 128,   0)
 RED =           (255, 0, 0)
 BGCOLOR = DARKTURQUOISE
-TILECOLOR = BLUE
+TILECOLOR = RED
 TEXTCOLOR = WHITE
-BORDERCOLOR = RED
+BORDERCOLOR = GREEN
 BASICFONTSIZE = 20
 TEXT = GREEN
 
